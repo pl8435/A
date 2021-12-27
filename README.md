@@ -10,4 +10,8 @@
 |post|/|이메일과 패스워드를 받아 데이터베이스에서 조회 후 로그인 실행|
 
 ```javascript
-console.log("Hello World!")
+console.log("Hello World!")```
+
+1. 1번입니다.
+2. 2번입니다.
+5. 3번입니다.
