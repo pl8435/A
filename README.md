@@ -10,4 +10,4 @@
 |post|/|이메일과 패스워드를 받아 데이터베이스에서 조회 후 로그인 실행|
 
 ```javascript
-안녕하세요
+console.log("Hello World!")
